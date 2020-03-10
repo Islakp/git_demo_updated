@@ -16,7 +16,7 @@ nav {
   justify-content: flex-start;
   height: 40px;
   padding: 0 40px;
-  background: #fff;
+  background:red;
 }
 
 nav ul {
@@ -43,7 +43,7 @@ nav a {
   flex-direction: column;
   height: 400px;
   background: green;
-  color: #fff;
+  color:blueviolet;
 }
 
 .hero p {
